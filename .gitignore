@@ -11,8 +11,6 @@ node_modules
 dist
 dist-ssr
 *.local
-playerdata.json
-Available.jsx
 # Editor directories and files
 .vscode/*
 !.vscode/extensions.json

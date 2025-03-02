@@ -1,7 +1,7 @@
 import { useEffect, useState } from 'react'
 import './App.css'
 import Header from './Header'
-
+import Available from './Available'
 
 import { ToastContainer, toast } from 'react-toastify';
 
@@ -25,6 +25,7 @@ function App() {
   return (
     <>
      <Header addCoins={addCoins} coins={coins}></Header>
+     <Available players = {players}></Available>
      <ToastContainer position="top-center" autoClose={1500} hideProgressBar={false} />
     </>
   )

@@ -1,0 +1,149 @@
+{
+    "players": [
+    {
+      "playerId": 1,
+      "name": "Lionel Messi",
+      "country": "Argentina",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/1/18/Lionel-Messi-Argentina-2022-FIFA-World-Cup_sharpness.jpg",
+      "role": "Forward",
+      "foot": "Left",
+      "biddingPrice": "20000"
+    },
+    {
+      "playerId": 2,
+      "name": "Cristiano Ronaldo",
+      "country": "Portugal",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/d/d7/Cristiano_Ronaldo_playing_for_Al_Nassr_FC_against_Persepolis%2C_September_2023_%28cropped%29.jpg",
+      "role": "Forward",
+      "foot": "Right",
+      "biddingPrice": "19000"
+    },
+    {
+      "playerId": 3,
+      "name": "Neymar Jr.",
+      "country": "Brazil",
+      "image": "https://images.saymedia-content.com/.image/ar_1:1%2Cc_fill%2Ccs_srgb%2Cfl_progressive%2Cq_auto:eco%2Cw_1200/MjAxMjg2NjUxNzU3Mjc0Mzc2/20-interesting-facts-about-neymar-jr.jpg",
+      "role": "Forward",
+      "foot": "Right",
+      "biddingPrice": "18000"
+    },
+    {
+      "playerId": 4,
+      "name": "Kylian Mbappé",
+      "country": "France",
+      "image": "https://icdn.football-espana.net/wp-content/uploads/2024/10/kylian-mbappe-1536x1007.jpg",
+      "role": "Forward",
+      "foot": "Right",
+      "biddingPrice": "21000"
+    },
+    {
+      "playerId": 5,
+      "name": "Kevin De Bruyne",
+      "country": "Belgium",
+      "image": "https://i2-prod.liverpoolecho.co.uk/incoming/article27488125.ece/ALTERNATES/s1200c/0_GettyImages-1600547772.jpg",
+      "role": "Midfielder",
+      "foot": "Right",
+      "biddingPrice": "17000"
+    },
+    {
+      "playerId": 6,
+      "name": "Luka Modrić",
+      "country": "Croatia",
+      "image": "https://3seaseurope.com/wp-content/uploads/2023/04/mrodic.webp",
+      "role": "Midfielder",
+      "foot": "Right",
+      "biddingPrice": "16000"
+    },
+    {
+      "playerId": 7,
+      "name": "Virgil van Dijk",
+      "country": "Netherlands",
+      "image": "https://static.independent.co.uk/2024/11/06/12/602140baccdc57df0262fd07a1724305Y29udGVudHNlYXJjaGFwaSwxNzMwOTgxNjA5-2.78110213.jpg",
+      "role": "Defender",
+      "foot": "Right",
+      "biddingPrice": "15000"
+    },
+    {
+      "playerId": 8,
+      "name": "Sergio Ramos",
+      "country": "Spain",
+      "image": "https://m.media-amazon.com/images/M/MV5BNmU3ZDNhN2MtOWEzMi00YTdlLThmNmEtNGYzNGNmNmQyOGY0XkEyXkFqcGc@._V1_.jpg",
+      "role": "Defender",
+      "foot": "Right",
+      "biddingPrice": "14000"
+    },
+    {
+      "playerId": 9,
+      "name": "Alisson Becker",
+      "country": "Brazil",
+      "image": "https://backend.liverpoolfc.com/sites/default/files/styles/lg/public/2024-09/alisson-200924.webp?itok=XkXY6oDH",
+      "role": "Goalkeeper",
+      "foot": "Right",
+      "biddingPrice": "13000"
+    },
+    {
+      "playerId": 10,
+      "name": "Manuel Neuer",
+      "country": "Germany",
+      "image": "https://assets.goal.com/images/v3/blt7f80e587a9807ae1/210624%20Manuel%20Neuer%20of%20Germany%20celebrates%201920.jpg?auto=webp&format=pjpg&width=3840&quality=60",
+      "role": "Goalkeeper",
+      "foot": "Right",
+      "biddingPrice": "12500"
+    },
+    {
+      "playerId": 11,
+      "name": "Mohamed Salah",
+      "country": "Egypt",
+      "image": "https://images.supersport.com/media/vfbo330m/mohamed-salah-24-11-g-1200.jpg?width=1920&quality=90&format=webp",
+      "role": "Forward",
+      "foot": "Left",
+      "biddingPrice": "19000"
+    },
+    {
+      "playerId": 12,
+      "name": "Robert Lewandowski",
+      "country": "Poland",
+      "image": "https://assets.goal.com/images/v3/bltdfbfbe7071942b67/Robert%20Lewandowski-poland-20240326.jpg?auto=webp&format=pjpg&width=3840&quality=60",
+      "role": "Forward",
+      "foot": "Right",
+      "biddingPrice": "18500"
+    },
+    {
+      "playerId": 13,
+      "name": "Paul Pogba",
+      "country": "France",
+      "image": "https://imgresizer.eurosport.com/unsafe/1200x0/filters:format(jpeg)/origin-imgresizer.eurosport.com/2024/02/29/3919989-79632548-2560-1440.jpg",
+      "role": "Midfielder",
+      "foot": "Right",
+      "biddingPrice": "16000"
+    },
+    {
+      "playerId": 14,
+      "name": "Trent Alexander-Arnold",
+      "country": "England",
+      "image": "https://assets.goal.com/images/v3/getty-2175621246/crop/MM5DKMBQGU5DEOBRGU5G433XMU5DENRQHIYA====/GettyImages-2175621246.jpg?auto=webp&format=pjpg&width=3840&quality=60",
+      "role": "Defender",
+      "foot": "Right",
+      "biddingPrice": "15000"
+    },
+    {
+      "playerId": 15,
+      "name": "Eden Hazard",
+      "country": "Belgium",
+      "image": "https://s.yimg.com/ny/api/res/1.2/KyZzhHzir09iOjamYkAX3Q--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://s.yimg.com/os/creatr-uploaded-images/2023-05/f3304350-025b-11ee-afdd-061c24964894",
+      "role": "Forward",
+      "foot": "Right",
+      "biddingPrice": "17000"
+    },
+    {
+      "playerId": 16,
+      "name": "Marc-André ter Stegen",
+      "country": "Germany",
+      "image": "https://imgresizer.eurosport.com/unsafe/1200x0/filters:format(jpeg)/origin-imgresizer.eurosport.com/2021/05/06/3127305-64101828-2560-1440.jpg",
+      "role": "Goalkeeper",
+      "foot": "Right",
+      "biddingPrice": "12000"
+    }
+]
+}
+  
